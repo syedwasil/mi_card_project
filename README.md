@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## App Screenshot:
+![Screenshot_20240906_224249](https://github.com/user-attachments/assets/05838a35-1ccc-4517-8e0d-e7c16babc649)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
